@@ -1,4 +1,4 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "Your blog post title"
+date: 2018-11-11
 ---

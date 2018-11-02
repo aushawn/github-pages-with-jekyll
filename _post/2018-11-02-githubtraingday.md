@@ -1,1 +1,4 @@
-first blog post
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
